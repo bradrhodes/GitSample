@@ -1,4 +1,4 @@
 GitSample
 =========
 
-Sample repo
+Sample repo for demonstration.
